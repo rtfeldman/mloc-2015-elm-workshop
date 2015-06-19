@@ -3,13 +3,19 @@ Elm Wizardry: Part 1
 
 Welcome, fellow Elm traveler! Today we'll be delving into the arcane magicks of functional programming in the browser.
 
-We'll be building towards a working Adventure Game, but don't sweat it if you don't get everything working inside two hours. The three most important things to do in this workshop are:
+We'll be building towards a working game, but don't sweat it if you don't get everything working inside two hours. The three most important things to do in this workshop are:
 
 1. Have fun
 2. Gain familiarity with building things in Elm
 3. Have fun
 
 Our primary goal in Part 1 of the workshop is simply to get comfortable writing some Elm code. All the HTML and CSS for this game has already been written, so you should be able to spend the whole workshop editing `Wizardry.elm`.
+
+Remember to run this command each time you want to rebuild your code:
+
+```bash
+elm-make Wizardry.elm
+```
 
 Some useful references to aid you in your journey:
 
