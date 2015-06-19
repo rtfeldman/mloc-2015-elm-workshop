@@ -25,7 +25,7 @@ You may also want to install a [syntax highlighting plugin](http://elm-lang.org/
 
 ### Set Up Workshop Materials
 
-1. Grab this repository with `git clone https://github.com/rtfeldman/lambdaconf-2015-elm-workshop.git`
+1. Grab this repository with `git clone https://github.com/rtfeldman/mloc-2015-elm-workshop.git`
 2. Run `cd mloc-2015-elm-workshop/1_basic`
 3. You should now be in a directory called `1_basic`. Run `ls` to see the contents of this `1_basic` directory; make sure you see these 6 files: `Monsters.elm`, `Wizardry.elm`, `Spells.elm`, `index.html`, `elm-package.json`, and `style.css`.
 4. Run `elm-package install` to download and install the project’s dependencies. Answer `y` when prompted `"Do you approve of this plan? (y/n)"`
