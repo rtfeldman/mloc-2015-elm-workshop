@@ -1,7 +1,7 @@
 Elm Wizardry!
 =============
 
-_[mloc.js 2015 Workshop](http://mloc-js.com/2015/#richard_feldman)_
+An _[mloc.js 2015 Workshop](http://mloc-js.com/2015/#richard_feldman)_
 
 ### Installing Elm
 
